@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3d60a958-c89a-447b-84fb-1ac01736776a": {
+      "ProjectGuid": "3d60a958-c89a-447b-84fb-1ac01736776a",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "d798f27f-8e76-4b94-9822-f03465b52748": {
+      "ProjectGuid": "d798f27f-8e76-4b94-9822-f03465b52748",
+      "DisplayName": "KhoHang",
+      "ColorIndex": 1
+    },
+    "3ff8a944-cf4a-4478-a371-0dba07bf2b6c": {
+      "ProjectGuid": "3ff8a944-cf4a-4478-a371-0dba07bf2b6c",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "0b70357a-1251-4081-b922-219837943465": {
+      "ProjectGuid": "0b70357a-1251-4081-b922-219837943465",
+      "DisplayName": "BUL",
+      "ColorIndex": 3
+    },
+    "65561e19-7716-4f87-ab05-ce11c75a669c": {
+      "ProjectGuid": "65561e19-7716-4f87-ab05-ce11c75a669c",
+      "DisplayName": "DTO",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

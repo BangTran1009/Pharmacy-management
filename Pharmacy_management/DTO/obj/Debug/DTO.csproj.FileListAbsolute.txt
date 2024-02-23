@@ -1,0 +1,60 @@
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+E:\Tong hop\Pharmacy_management\DTO\bin\Debug\DTO.dll
+E:\Tong hop\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+E:\Tong hop\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Tong hop\Pharmacy_management\DTO\obj\Debug\DTO.dll
+E:\Tong hop\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+E:\Tong hop\Pharmacy_management\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DTO\obj\Debug\DTO.pdb

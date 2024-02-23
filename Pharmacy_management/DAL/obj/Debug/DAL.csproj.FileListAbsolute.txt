@@ -1,0 +1,90 @@
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+E:\Tong hop\Pharmacy_management\DAL\bin\Debug\DAL.dll
+E:\Tong hop\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+E:\Tong hop\Pharmacy_management\DAL\bin\Debug\DTO.dll
+E:\Tong hop\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+E:\Tong hop\Pharmacy_management\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\Tong hop\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Tong hop\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\Tong hop\Pharmacy_management\DAL\obj\Debug\DAL.dll
+E:\Tong hop\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\DAL\obj\Debug\DAL.pdb

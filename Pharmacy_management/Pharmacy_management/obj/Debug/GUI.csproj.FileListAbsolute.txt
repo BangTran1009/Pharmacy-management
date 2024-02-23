@@ -1,0 +1,425 @@
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhaiTruong.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+E:\Tong hop\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csprojAssemblyReference.cache
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhaiTruong.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+E:\Tong hop\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhaiTruong.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmHangHoaQB.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangQB.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmComboQB.resources
+D:\Tường Vi\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang2.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhaiTruong.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemVC.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhaiTruong.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemVC.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmHienHoaDon.resources
+D:\TuongVi_Wiform\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChart.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChart.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmHienHoaDon.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemVC.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTinTucKhaiTruong.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTinTucSale.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChart.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmHienHoaDon.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmPhanPhoi.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTinTucKhaiTruong.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemVC.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTinTucSale.resources
+D:\SPKT\Lập trình trên Window\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe.config
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.exe
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Pharmacy_management.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\Bunifu_UI_v1.52.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.dll
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\BUL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DAL.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\bin\Debug\DTO.pdb
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChart.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietLuong.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietTienHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCoSo.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSDoanhThu.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSKhoHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSNhanVien.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSQuanLy.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmCSTaiKhoan.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDangNhap.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDanhGiaCuaKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoanhThu.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmDoiMatKhau.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmHienHoaDon.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhachHangTraiNghiem.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmPhanPhoi.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTinTucKhaiTruong.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmKhoHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmNhanVien.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuayBanHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuenMatKhau.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTaiKhoan.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmThemVC.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmTinTucSale.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmXemDanhGiaKhachHang.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.Properties.Resources.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmQuanLy.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.fmChiTietHoaDon.resources
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\GUI.csproj.CopyComplete
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.exe
+D:\Study\HK 2 (năm 2)\Lập trình trên Windows\Project\Nhóm 8\Pharmacy_management\Pharmacy_management\Pharmacy_management\Pharmacy_management\obj\Debug\Pharmacy_management.pdb
